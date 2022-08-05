@@ -1,3 +1,4 @@
+# panbaidu
 （还在为下载速度慢而困扰吗？时间就是金钱，下载时间咱不能等，看完下面的教程，再也不用充百度网盘会员啦）
 # 1.安装油猴
 首先去 [Tampermonkey油猴官网](https://www.tampermonkey.net/)，安装油猴
